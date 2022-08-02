@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "Name": "Telefon",
+        "Category": "Teknoloji",
+        "Summary": "asd",
+        "Description": "qweqweqwe",
+        "Price": 400
+    },
+    {
+        "ID": 1,
+        "Name": "Kazak",
+        "Category": "Giyim",
+        "Summary": "asdasd",
+        "Description": "123123213",
+        "Price": 40
+    },
+    {
+        "ID": 1,
+        "Name": "Laptop",
+        "Category": "Teknoloji",
+        "Summary": "asdasd",
+        "Description": "C11123123",
+        "Price": 550
+    }
+]
